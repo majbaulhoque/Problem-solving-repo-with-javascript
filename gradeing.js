@@ -31,4 +31,6 @@ if(num1 > num2){
     }
 }else if(num2 > num3){
     console.log(num2);
+} else {
+    console.log(num3);
 }
